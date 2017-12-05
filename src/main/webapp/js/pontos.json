@@ -1,0 +1,14 @@
+[
+	  {
+		"Id": 1,
+        "Latitude": -4.97010591, 
+        "Longitude": -39.01582549,
+		"Descricao": "Praça do Leão"
+    },
+    {
+    "Id": 2,
+        "Latitude": -4.97949034, 
+        "Longitude": -39.05629466,
+    "Descricao": "UFC - Campus Quixadá"
+    }
+]
